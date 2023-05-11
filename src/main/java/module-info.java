@@ -9,4 +9,7 @@ module com.example.javafxdemo {
     exports com.example.javafxdemo;
 
     exports com.example.td1;
+    exports com.example.partie2;
+    exports com.example.Exercice5;
+
 }
